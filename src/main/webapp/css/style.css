@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("Laboratory.jpg");
+	background-color: lightblue;
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+	color:blueviolet;
+}
+h2{
+	color:blueviolet;
+}
+h3{
+	color:blueviolet;
+}
+
+table {
+	width:100%;	
+	border:none;	
+}
+
+table td{
+	background-color:white;
+	padding:15px;
+	width:50px;
+	height:30px;
+	border-spacing:50px;	
+}
+
+button{
+	background-color: black;
+    color: white;
+    width: 12%;
+    height: 40px;
+}
+.img1{
+	margin:auto;	
+	display: block;
+}
+.img2{
+	width:80px;
+	height:50px;
+}
+
